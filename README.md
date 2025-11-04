@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente me encuentro laborando en proyectos desarrollados para **Chubb Seguros**
 
-- 🌱 Actualmente me encuentro aprendiendo en el uso de la inteligencia artificial en especial con la herramienta de **n8n**
+- 🌱 Me encuentro en curso y aprendiendo por mi cuenta en el uso de la inteligencia artificial en especial con la herramienta de **n8n**
 
 - 📫 Como contactarme **v.t.juarez@outlook.com, vic.juarezt@gmail.com**
 
