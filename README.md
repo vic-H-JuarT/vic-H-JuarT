@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy VictorJuárez</h1>
-<h3 align="center">Apasionado por la tecnología, con ganas de aprender, actualizar mis habilidades cada día y aplicar mi experiencia como desarrollador full stack</h3>
+<h3 align="center">Apasionado por la tecnología, con ganas de aprender, actualizar nuevas habilidades y/o herramientas, para poder aportar todos mis conocimientos que he adquirido durante mi estancia como desarrollador </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-h-juart&label=Profile%20views&color=0e75b6&style=flat" alt="vic-h-juart" /> </p>
 
