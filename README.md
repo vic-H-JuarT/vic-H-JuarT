@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme **v.t.juarez@outlook.com, vic.juarezt@gmail.com**
 
-- 📄 [Clic aqui para saber mas sobre mi experiencia laboral](https://vic-h-juart.github.io/resumen-cv/)
+- 📄Clic <a href="https://vic-h-juart.github.io/resumen-cv/" target="_blank">aqui</a> para saber mas sobre mi experiencia laboral
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
